@@ -9,3 +9,7 @@ Hello, my name is Kien.
 I'm mostly a hobbyist, amateur guitarist, pro gamer, sometime baller, bad programmer, and have major in information security.
 
 I'm currently interested in cryptography and computer graphics.
+
+This is my fastfetch btw... I know nobody asked.
+
+![fastfetch](fastfetch_debian.png)
